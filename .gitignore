@@ -1,0 +1,92 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# macOS files
+.DS_Store
+
+# Test and coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# Pyre
+.pyre/
+
+# Pytype
+.pytype/
+
+# Profiling data
+*.prof
+*.lprof
+*.pstat
+
+# Logs
+*.log
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / test output
+tests/__pycache__/
+
+# Temporary files
+*.tmp
+*.temp
+
+# dotenv
+.env
+.env.*
+
+# SQLite database files
+*.sqlite3
+*.db
+
+# Local settings
+local_settings.py
+launch.sh
+
+# Ignore paloma
+temp.*
+Makefile
+run.sh
+data/
