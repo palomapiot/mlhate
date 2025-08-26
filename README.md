@@ -19,7 +19,7 @@ How the **metacollection** was built:
 
 📌 Goal: Provide a **unified benchmark resource** for Spanish hate speech research.  
 
----
+
 
 ### 2. 🌐 `translation/`
 How the original **Spanish corpora** were translated into **Portuguese** and **Galician**:
@@ -28,7 +28,6 @@ How the original **Spanish corpora** were translated into **Portuguese** and **G
 
 📌 Goal: Create **parallel datasets** to enable research in **low-resource settings**, where annotated data is scarce.  
 
----
 
 ### 3. 🔬 `experiments/`
 Experiments with **NLP models** for hate speech detection:
@@ -39,7 +38,6 @@ Experiments with **NLP models** for hate speech detection:
 
 📌 Goal: Evaluate **robustness & generalization** across Iberian languages.  
 
----
 
 ### 4. 🧩 `analysis/`
 Lexical and psycholinguistic analysis of the datasets:
