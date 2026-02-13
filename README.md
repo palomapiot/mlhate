@@ -65,7 +65,17 @@ Data can be accessed [here](https://huggingface.co/datasets/irlab-udc/MetaHateES
 
 ## 📑 Citation
 
-Coming soon!
+```bash
+@misc{piot2025bridginggapshatespeech,
+      title={Bridging Gaps in Hate Speech Detection: Meta-Collections and Benchmarks for Low-Resource Iberian Languages}, 
+      author={Paloma Piot and José Ramom Pichel Campos and Javier Parapar},
+      year={2025},
+      eprint={2510.11167},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2510.11167}, 
+}
+```
 
 ---
 
